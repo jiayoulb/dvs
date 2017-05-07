@@ -11,9 +11,7 @@
 						<key>kind</key>
 						<string>software-package</string>
 						<key>url</key>
-						<string>
-							http://lb.tunnel.qydev.com/files/Mobileios.ipa
-						</string>
+						<string>https://github.com/jiayoulb/dvs/blob/master/Mobile.plist</string>
 					</dict>
 				</array>
 				<key>metadata</key>
