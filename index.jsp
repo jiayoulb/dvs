@@ -25,7 +25,7 @@
 			if(is_weixn()){
 				$("#weixinnotice").show();
 			}else{
-				location.href = "itms-services://?action=download-manifest&url=http://lb.tunnel.qydev.com/files/Mobile.plist";
+				location.href = "itms-services://?action=download-manifest&url=https://github.com/jiayoulb/dvs/blob/master/Mobile.plist";
 			}
 	  </script>
 <html>
